@@ -57,8 +57,8 @@ You need to create an App Registration in Azure AD and grant it the following *A
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory>
+    git clone https://github.com/wywy1234/Azure-AD-Inactive-User-Management-Tool
+    cd Azure-AD-Inactive-User-Management-Tool
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
