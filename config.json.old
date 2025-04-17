@@ -1,0 +1,14 @@
+{
+  "TENANT_ID": "9e715a80-83f4-42bc-b37a-a016a46ad6c4",
+  "CLIENT_ID": "1b21a009-34f8-4db8-ae5c-c03710cef50a",
+  "GRAPH_API_URL": "https://graph.microsoft.com/v1.0",
+  "DAYS_TO_SEARCH_BEYOND": 90,
+  "sender_email": "lm_infosecurity@lucasmilhaupt.com",
+  "receiver_email": "wblacker@lucasmilhaupt.com",
+  "subject": "Inactive Users Report",
+  "body": "Please find the attached report of inactive users.",
+  "smtp_server": "10.5.0.74",
+  "smtp_port": 25,
+  "CLIENT_SECRET_ENCRYPTED": "35870a1ac33307125e57b42e267224b89eeea5b0d18f043245999c989dd4384578f9fb81256383122492ea9add6b92d7b49a8e27773d5148b8cc9fd28763e064",
+  "email_subject": "Inactive Users Report"
+}
